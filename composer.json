@@ -1,0 +1,13 @@
+{
+    "name": "www",
+    "authors": [
+        {
+            "name": "Erick Ruiz de Chavez",
+            "email": "erickrdch@icloud.com"
+        }
+    ],
+    "require": {
+        "mustache/mustache": "dev-master",
+        "aws/aws-sdk-php": "dev-master"
+    }
+}

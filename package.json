@@ -1,0 +1,13 @@
+{
+  "name": "www",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Erick Ruiz de Chavez <erickrdch@icloud.com>",
+  "dependencies": {
+    "aws-sdk": "^2.0.0-rc.18",
+    "express": "^4.3.1",
+    "mustache": "^0.8.1",
+    "php-unserialize": "0.0.1"
+  }
+}
